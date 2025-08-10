@@ -20,3 +20,6 @@ Aplicação web desenvolvida com Angular
 ## Preview
 <img width="1912" height="909" alt="Screenshot 2025-08-10 191213" src="https://github.com/user-attachments/assets/ebe5c4a5-42bd-4452-8f10-144807354f42" />
 <img width="1908" height="893" alt="Screenshot 2025-08-10 193805" src="https://github.com/user-attachments/assets/f2dbe182-ef5b-474d-a6e1-9e5d27e67b31" />
+
+## Desafios
+Este é o meu primeiro projeto desenvolvido com Angular. Durante o processo, tive dificuldades para compreender o funcionamento dos decorators @Input e @Output. Então, revisei esses tópicos na documentação oficial do Angular e no curso do Felipe Freitas (@DevFortin), para compreender melhor como esses recursos funcionam.
